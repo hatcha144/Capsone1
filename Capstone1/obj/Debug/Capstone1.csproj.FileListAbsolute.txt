@@ -1,0 +1,7 @@
+C:\Users\GC Student\source\repos\Capstone1\Capstone1\bin\Debug\Capstone1.exe.config
+C:\Users\GC Student\source\repos\Capstone1\Capstone1\bin\Debug\Capstone1.exe
+C:\Users\GC Student\source\repos\Capstone1\Capstone1\bin\Debug\Capstone1.pdb
+C:\Users\GC Student\source\repos\Capstone1\Capstone1\obj\Debug\Capstone1.csprojResolveAssemblyReference.cache
+C:\Users\GC Student\source\repos\Capstone1\Capstone1\obj\Debug\Capstone1.csproj.CoreCompileInputs.cache
+C:\Users\GC Student\source\repos\Capstone1\Capstone1\obj\Debug\Capstone1.exe
+C:\Users\GC Student\source\repos\Capstone1\Capstone1\obj\Debug\Capstone1.pdb
